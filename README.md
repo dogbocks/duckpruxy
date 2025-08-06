@@ -1,4 +1,4 @@
-## Doge Unblocker
+## Duck Unblocker
 Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet). Our service allows you to **get around internet restrictions** to visit your favorite sites and apps, without worrying about your browsing history being saved or your internet being blocked.
 ### Key Features:
 <details>
@@ -34,7 +34,7 @@ Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/t
 </details>
 
 ### Current Developers:
-- [Fowntain](https://github.com/fowntain)
+- Duck
 ### Deployment
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/template/h7StcI?referralCode=u82tqg)
 <a href="https://render.com/deploy?repo=https://github.com/dogenetwork/doge-unblocker">
